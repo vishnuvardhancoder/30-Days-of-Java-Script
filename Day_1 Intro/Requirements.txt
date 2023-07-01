@@ -1,0 +1,5 @@
+Requirements:-
+
+  Node Js - a runtime environment for javascript and
+  Code Editor - VS code recommended.
+ you need to install both and you are ready to go.
